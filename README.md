@@ -22,4 +22,4 @@ URL Shortener Assignment
     ```
 
 ## About the assignment
-Have written the solution using Javascript and HTML and MongoDB to store data.
+The solution is written in [EJS](https://ejs.co/) with mongo DB as the store for shortened URLs. A random unique key generator is used to generate the shortened urls.
