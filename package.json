@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "devStart": "npm install && nodemon server.js"
+    "url_shortener": "npm install && nodemon server.js"
   },
   "author": "",
   "license": "ISC",

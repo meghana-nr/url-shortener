@@ -18,7 +18,7 @@ URL Shortener Assignment
     ```
 - Run npm run command
     ```
-    npm run devStart
+    npm run url_shortener
     ```
 
 ## About the assignment
