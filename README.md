@@ -8,6 +8,7 @@ URL Shortener Assignment
     ```
  - Install mongodb and run it as background process
     ```
+    brew tap mongodb/brew
     brew install mongodb-community@6.0
     mongod --config /opt/homebrew/etc/mongod.conf --fork
     ```
