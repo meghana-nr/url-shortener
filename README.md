@@ -28,6 +28,10 @@ URL Shortener Assignment
      http://localhost:8000/
     ```
 
+## Example 
+  - After running the npm command on the terminal , go to http://localhost:8080 on the browser
+  - Type "https://www.amazon.com" on URL box. Note - http:// or https:// is mandatory
+  - Click on "shorten" button
 ## About the assignment
 - Languages
    ```
