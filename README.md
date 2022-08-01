@@ -34,12 +34,12 @@ URL Shortener Assignment
     ```
 
 ## Example
-  -  
+ - Steps
   ``` 
   After running the npm command on the terminal , go to http://localhost:8080 on the browser
   Type "https://www.amazon.com" on URL box. Note - http:// or https:// is mandatory
   Click on "shorten" button
-    ```
+  ```
 
 ## About the approaches used in the assignment solution
 - Languages
