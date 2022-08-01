@@ -12,6 +12,7 @@ URL Shortener Assignment
     brew install mongodb-community@6.0
     mongod --config /opt/homebrew/etc/mongod.conf --fork
     ```
+
 ## How to run the app
 - Download code from github
     ```

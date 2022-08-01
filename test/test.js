@@ -12,5 +12,4 @@ describe('Unit testing the / route', function() {
             assert.equal(response.status, 200)
         })
     });
-
 });
