@@ -19,6 +19,11 @@ URL Shortener Assignment
 - Run npm run command
     ```
     npm run url_shortener
+
+## Access the app on the browser
+ - Access localhost on port 8000 to run the app
+    ```
+     http://localhost:8000/
     ```
 
 ## About the assignment
