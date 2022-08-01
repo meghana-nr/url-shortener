@@ -12,7 +12,7 @@
         <h1> URL Shortener </h1>
         <h4><i> Your short URL is : </h4>
             <% shortUrls.forEach(shortUrl => { %>
-                <a href="<%= shortUrl.short %>"><%= shortUrl.short %></a>
+                <a href="<%= shortUrl.short %>"><%= `http://localhost:8000/${shortUrl.short}` %></a>
             <% }) %> </i>    
   </body>     
 </div>
