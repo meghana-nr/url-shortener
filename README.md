@@ -60,6 +60,7 @@ URL Shortener Assignment
     2. Multiple read only replicas can be maintained so that there is no single point of failure when the primary is down.
     3. The short url generated can be customised further per user id if need be.
     4. Caching and load balancers can be implemented to increase efficiency of the system.
+    5. Unit testing
 
 
     
