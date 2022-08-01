@@ -8,9 +8,14 @@ URL Shortener Assignment
     ```
  - Install mongodb and run it as background process
     ```
-    brew tap mongodb/brew
-    brew install mongodb-community@6.0
-    mongod --config /opt/homebrew/etc/mongod.conf --fork
+    1. brew tap mongodb/brew
+    2. brew install mongodb-community@6.0
+    3. 
+        For macOS running Intel processors:
+            mongod --config /usr/local/etc/mongod.conf --fork
+        (or)
+        For macOS running on Apple M1 processors:
+            mongod --config /opt/homebrew/etc/mongod.conf --fork
     ```
 
 ## How to run the app
