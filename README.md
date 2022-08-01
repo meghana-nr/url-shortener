@@ -10,7 +10,7 @@ URL Shortener Assignment
     ```
     1. brew tap mongodb/brew
     2. brew install mongodb-community@6.0
-    3. 
+    3. Run background process using -
         For macOS running Intel processors:
             mongod --config /usr/local/etc/mongod.conf --fork
         (or)
@@ -33,11 +33,13 @@ URL Shortener Assignment
      http://localhost:8000/
     ```
 
-## Example 
-  - After running the npm command on the terminal , go to http://localhost:8080 on the browser
-  - Type "https://www.amazon.com" on URL box. Note - http:// or https:// is mandatory
-  - Click on "shorten" button
-## About the assignment
+## Example
+  -  ``` 
+  1. After running the npm command on the terminal , go to http://localhost:8080 on the browser
+  2. Type "https://www.amazon.com" on URL box. Note - http:// or https:// is mandatory
+  3. Click on "shorten" button
+    ```
+## About the approaches used in the assignment solution
 - Languages
    ```
    1. The solution is written in Embedded Javascript (https://ejs.co/) using npm/node.
