@@ -37,7 +37,7 @@ URL Shortener Assignment
  - Steps
   ``` 
  1. On terminal run - npm run url_shortener
- 2. On browser type - http://localhost:8080
+ 2. On browser type - http://localhost:8000
  3. In URL text box, type - "https://www.apple.com". [Note - http:// or https:// is mandatory]
  4. Click on "shorten" button
   ```
